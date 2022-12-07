@@ -1,2 +1,2 @@
 # Projeto-Html
-Parte do copiar automaticamente funciona apena no firefox
+Parte do copiar automaticamente funciona apenas no firefox (buscando soluções)
